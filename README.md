@@ -4,7 +4,7 @@
 
 *A minimalist meditation journal that measures **depth, not just duration**.*
 
-Try the web tool here: [https://asutosh11.github.io/myzen/](https://github.io)
+Try the web tool here: [[https://asutosh11.github.io/myzen/](https://github.io)](https://asutosh11.github.io/myzen/)
 
 
 [![iOS](https://img.shields.io/badge/iOS-SwiftUI-0A84FF?logo=apple&logoColor=white)]()
